@@ -8,8 +8,6 @@ def Func(ls):
     print("Сумма элементов в массиве: " + str(sum(ls)))
 
 
-# main function
-print("Задача №3")
 try:
     raz = int(input("Введите размер массива: \n"))
     a = [] * raz  # создание массива вручную
